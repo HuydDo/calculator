@@ -30,3 +30,8 @@ function showTime() {
 }
 document.getElementById("demo").innerHTML = showTime();
 
+var date=new Date();
+var day=date.getDate();
+var month=date.getMonth()+1;
+var year=date.getFullYear();
+document.write("<br>Date is: "+month+"/"+day+"/"+year);
