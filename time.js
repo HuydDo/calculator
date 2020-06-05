@@ -35,3 +35,8 @@ var day=date.getDate();
 var month=date.getMonth()+1;
 var year=date.getFullYear();
 document.write("<br>Date is: "+month+"/"+day+"/"+year);
+
+var myVar = setInterval(myTimer ,1000);
+function myTimer() {
+var d = new Date();
+document.getElementById("demo1").innerHTML = d.toLocaleTimeString();
