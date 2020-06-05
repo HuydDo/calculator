@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+  <meta charset="utf-8">
+  <title>Calculator</title>
+  <link rel="stylesheet" href='./style.css' type='text/css' />
+</header>
+
+<body>
+  <!-- <h2>JavaScript Functions</h2> -->
+  <!-- <p>
+    Digital Clock
+  </p>
+  <p id="demo"></p> -->
+
+  <div class=title>Calculator</div>
+  <table border="1">
+    <tr>
+      <td><input type="button" value="c" onclick="clr()" /> </td>
+      <td colspan="3"><input type="text" id="edu" /></td>
+      <!-- clr() function will call clr to clear all value -->
+    </tr>
+    <tr>
+      <!-- creating buttons and assigning values-->
+      <td><input type="button" value="+" onclick="dis('+')" /> </td>
+      <td><input type="button" value="1" onclick="dis('1')" /> </td>
+      <td><input type="button" value="2" onclick="dis('2')" /> </td>
+      <td><input type="button" value="3" onclick="dis('3')" /> </td>
+    </tr>
+    <tr>
+      <td><input type="button" value="-" onclick="dis('-')" /> </td>
+      <td><input type="button" value="4" onclick="dis('4')" /> </td>
+      <td><input type="button" value="5" onclick="dis('5')" /> </td>
+      <td><input type="button" value="6" onclick="dis('6')" /> </td>
+    </tr>
+    <tr>
+      <td><input type="button" value="*" onclick="dis('*')" /> </td>
+      <td><input type="button" value="7" onclick="dis('7')" /> </td>
+      <td><input type="button" value="8" onclick="dis('8')" /> </td>
+      <td><input type="button" value="9" onclick="dis('9')" /> </td>
+    </tr>
+    <tr>
+      <td><input type="button" value="/" onclick="dis('/')" /> </td>
+      <td><input type="button" value="." onclick="dis('.')" /> </td>
+      <td><input type="button" value="0" onclick="dis('0')" /> </td>
+      <!-- Evaluating function call eval()-->
+      <td><input type="button" value="=" onclick="solve()" /> </td>
+    </tr>
+  </table>
+
+  <!-- <script>
+    var date=new Date();
+    var day=date.getDate();
+    var month=date.getMonth()+1;
+    var year=date.getFullYear();
+    document.write("<br>Date is: "+month+"/"+day+"/"+year);
+  </script>
+   -->
+
+<!-- <p>Below is a clock.</p>
+<p id="demo1"></p>
+<button onclick="clearInterval(myVar)">Stop time</button>
+<br>
+<p>Click the button above to stop the time.</p>
+<script>
+var myVar = setInterval(myTimer ,1000);
+function myTimer() {
+var d = new Date();
+document.getElementById("demo1").innerHTML = d.toLocaleTimeString();
+}
+</script> -->
+<!-- <style>
+  #myProgress {
+  width: 100%;
+  height: 30px;
+  position: relative;
+  background-color: #ddd;
+  }
+   
+  #myBar {
+  background-color: #4CAF50;
+  width: 10px;
+  height: 30px;
+  position: absolute;
+  }
+  </style>
+  <body> -->
+   
+  <!-- <h1>JavaScript Progress Bar</h1>
+   
+  <div id="myProgress">
+  <div id="myBar"></div>
+  </div>
+   
+  <br>
+  <button onclick="move()">Click Me</button>
+    -->
+  <!-- <script>
+  function move() {
+  var elem = document.getElementById("myBar");
+  var width = 0;
+  var id = setInterval(frame, 100);
+  function frame() {
+  if (width == 100) {
+  clearInterval(id);
+  } else {
+  width++;
+  elem.style.width = width + '%';
+  }
+  }
+  }
+  </script>
+
+   <button onclick="stopColor()">Stop Toggling</button>
+  -->
+   <!-- <script>
+   var myVar = setInterval(setColor, 100);
+    
+   function setColor() {
+   var x = document.body;
+   x.style.backgroundColor = x.style.backgroundColor == "gray" ? "white" : "gray";
+   }
+    
+   function stopColor() {
+   clearInterval(myVar);
+   }
+   </script> -->
+  <script src="calculator.js"></script>
+  <!-- <script src="time.js"></script> -->
+  
+<!-- </body> -->
+
+</html>
