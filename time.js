@@ -55,3 +55,15 @@ function move() {
   }
  }
 }
+
+
+var myVar = setInterval(setColor, 100);
+    
+ function setColor() {
+ var x = document.body;
+ x.style.backgroundColor = x.style.backgroundColor == "gray" ? "white" : "gray";
+ }
+  
+ function stopColor() {
+ clearInterval(myVar);
+ }
