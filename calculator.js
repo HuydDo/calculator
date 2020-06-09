@@ -1,15 +1,15 @@
-function dis(val) {
-  document.getElementById("edu").value += val
+function cal(val) {
+  document.getElementById("ele").value += val
 }
-//function for evaluation
+
 function solve() {
-  let x = document.getElementById("edu").value
+  let x = document.getElementById("ele").value
   let y = eval(x)
-  document.getElementById("edu").value = y
+  document.getElementById("ele").value = y
 }
-//function for clearing the display
+
 function clr() {
-  document.getElementById("edu").value = ""
+  document.getElementById("ele").value = ""
 }
 
 
