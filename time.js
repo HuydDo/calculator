@@ -47,23 +47,24 @@ function move() {
   var width = 0;
   var id = setInterval(frame, 100);
   function frame() {
-  if (width == 100) {
-  clearInterval(id);
-  } else {
-  width++;
-  elem.style.width = width + '%';
-  }
+    if (width == 100) {
+    clearInterval(id);
+    } else {
+    width++;
+    elem.style.width = width + '%';
+    }
  }
 }
 
 
-var myVar = setInterval(setColor, 100);
+var myVar1 = setInterval(setColor, 2000);
     
- function setColor() {
+function setColor() {
  var x = document.body;
- x.style.backgroundColor = x.style.backgroundColor == "gray" ? "white" : "gray";
- }
+ x.style.backgroundColor = x.style.backgroundColor == "gray" ? "lightgray" : "gray";
+}
   
  function stopColor() {
- clearInterval(myVar);
+  clearInterval(myVar1);
  }
+
