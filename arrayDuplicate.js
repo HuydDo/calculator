@@ -64,16 +64,10 @@
    }
 
    checkDuplicate4();
-   // callback function
-   function checkIndex(element, index) {
-      // compare the index of array element with the supplied index
-      return arr.indexOf(element) !== index
-   }
    function checkDuplicate4() {
       let arr = ["abc","xy","bb", "abc"];
       let result = false;
       // call some function with callback function as argument
-      // result = arr.some(checkIndex);
       result = arr.some((element, index) => {return arr.indexOf(element) !== index});
       if(result) {
          console.log('Array contains duplicate elements');
