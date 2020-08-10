@@ -24,7 +24,7 @@
    }
 
    //Method 2 Using a Set
-   checkDuplicate2();
+  //  checkDuplicate2();
    function checkDuplicate2() {
       let arr = ["abc","xy","bb", "abc"];
       let result = false;
@@ -33,6 +33,27 @@
       // compare the size of array and Set
       if(arr.length !== s.size){
          result = true;
+      }
+      if(result) {
+         console.log('Array contains duplicate elements');
+      } else {
+         console.log('Array does not contain duplicate elements');
+      }
+   }
+
+   //Method 3 Comparing the indexes of element
+   checkDuplicate3();
+   function checkDuplicate3(){
+      let arr = ["abc","xy","bb", "abc"];
+      let result = false;
+      // iterate over the array
+      for(let i = 0; i < arr.length;i++) {
+         // compare the first and last index of an element
+         if(arr.indexOf(arr[i]) !== arr.lastIndexOf(arr[i])){
+            result = true;
+            // terminate the loop
+            break;
+         }
       }
       if(result) {
          console.log('Array contains duplicate elements');
