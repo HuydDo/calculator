@@ -23,7 +23,7 @@ function showTime() {
   s = s < 10 ? "0" + s : s;
 
   var time = h + ":" + m + ":" + s + " " + session;
-  document.getElementById("demo").innerText = time;
+  // document.getElementById("demo").innerText = time;
   document.getElementById("demo").textContent = time;
 
   setTimeout(showTime, 1000);
