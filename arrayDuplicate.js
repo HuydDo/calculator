@@ -42,7 +42,7 @@
    }
 
    //Method 3 Comparing the indexes of element
-   checkDuplicate3();
+  //  checkDuplicate3();
    function checkDuplicate3(){
       let arr = ["abc","xy","bb", "abc"];
       let result = false;
@@ -50,11 +50,31 @@
       for(let i = 0; i < arr.length;i++) {
          // compare the first and last index of an element
          if(arr.indexOf(arr[i]) !== arr.lastIndexOf(arr[i])){
+           console.log(arr.lastIndexOf(arr[i]))
             result = true;
             // terminate the loop
             break;
          }
       }
+      if(result) {
+         console.log('Array contains duplicate elements');
+      } else {
+         console.log('Array does not contain duplicate elements');
+      }
+   }
+
+   checkDuplicate4();
+   // callback function
+   function checkIndex(element, index) {
+      // compare the index of array element with the supplied index
+      return arr.indexOf(element) !== index
+   }
+   function checkDuplicate4() {
+      let arr = ["abc","xy","bb", "abc"];
+      let result = false;
+      // call some function with callback function as argument
+      // result = arr.some(checkIndex);
+      result = arr.some((element, index) => {return arr.indexOf(element) !== index});
       if(result) {
          console.log('Array contains duplicate elements');
       } else {
