@@ -1,0 +1,11 @@
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.csprojAssemblyReference.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.csproj.CoreCompileInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.AssemblyInfoInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.AssemblyInfo.cs
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\bin\Debug\netcoreapp2.1\cSharp.deps.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\bin\Debug\netcoreapp2.1\cSharp.runtimeconfig.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\bin\Debug\netcoreapp2.1\cSharp.runtimeconfig.dev.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\bin\Debug\netcoreapp2.1\cSharp.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\bin\Debug\netcoreapp2.1\cSharp.pdb
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\cSharp\obj\Debug\netcoreapp2.1\cSharp.pdb
