@@ -1,0 +1,11 @@
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\bin\Debug\netcoreapp2.1\Decision.deps.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\bin\Debug\netcoreapp2.1\Decision.runtimeconfig.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\bin\Debug\netcoreapp2.1\Decision.runtimeconfig.dev.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\bin\Debug\netcoreapp2.1\Decision.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\bin\Debug\netcoreapp2.1\Decision.pdb
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.csprojAssemblyReference.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.csproj.CoreCompileInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.AssemblyInfoInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.AssemblyInfo.cs
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Decision\obj\Debug\netcoreapp2.1\Decision.pdb
