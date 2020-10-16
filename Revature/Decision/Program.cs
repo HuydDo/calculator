@@ -39,7 +39,7 @@ namespace Decision
           //  Console.WriteLine("Exact value of b is : {0}", b);
           //  Console.ReadLine(); 
 
-         int a = 100;
+        int a = 100;
          int b = 200;
          
          switch (a) {
@@ -56,7 +56,6 @@ namespace Decision
          Console.WriteLine("Exact value of a is : {0}", a);
          Console.WriteLine("Exact value of b is : {0}", b);
          Console.ReadLine();
-         
-        }
-    }
+      }
+   }
 }
