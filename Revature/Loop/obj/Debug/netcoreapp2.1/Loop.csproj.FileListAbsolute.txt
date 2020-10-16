@@ -1,0 +1,11 @@
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\bin\Debug\netcoreapp2.1\Loop.deps.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\bin\Debug\netcoreapp2.1\Loop.runtimeconfig.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\bin\Debug\netcoreapp2.1\Loop.runtimeconfig.dev.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\bin\Debug\netcoreapp2.1\Loop.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\bin\Debug\netcoreapp2.1\Loop.pdb
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.csprojAssemblyReference.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.csproj.CoreCompileInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.AssemblyInfoInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.AssemblyInfo.cs
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\Loop\obj\Debug\netcoreapp2.1\Loop.pdb
