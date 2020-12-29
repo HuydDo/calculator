@@ -1,0 +1,11 @@
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\bin\Debug\netcoreapp2.1\programmingStructure.deps.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\bin\Debug\netcoreapp2.1\programmingStructure.runtimeconfig.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\bin\Debug\netcoreapp2.1\programmingStructure.runtimeconfig.dev.json
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\bin\Debug\netcoreapp2.1\programmingStructure.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\bin\Debug\netcoreapp2.1\programmingStructure.pdb
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.csprojAssemblyReference.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.csproj.CoreCompileInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.AssemblyInfoInputs.cache
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.AssemblyInfo.cs
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.dll
+C:\Users\huydd\dev\flatiron\labs\Calculator\Revature\C#\programmingStructure\obj\Debug\netcoreapp2.1\programmingStructure.pdb
