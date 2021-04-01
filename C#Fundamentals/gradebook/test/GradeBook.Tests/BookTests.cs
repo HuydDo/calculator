@@ -6,7 +6,7 @@ namespace GradeBook.Tests
     public class BookTests
     {
         [Fact]
-        public void Test1()
+        public void BookCalculateAnAverageGrade()
         {
           //arrange
           var book = new Book("");
@@ -24,3 +24,7 @@ namespace GradeBook.Tests
         }
     }
 }
+//dotnet new xunit
+//dotnet add package package xunit --version 2.4.1
+//dotnet add reference ../../src/GradeBook/GradeBook.csproj
+//dotnet test
